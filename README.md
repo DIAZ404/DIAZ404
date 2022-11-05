@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DIAZ404
 - 👀 I’m interested in Hacking,It,CyberSecurity
 - 🌱 I’m currently learning hacking,cybersec
-- 💞️ I’m looking to collaborate on ...
 - 📫 You also can reach me on my mail diizzsec1337@gmail.com 
 
 <!---
